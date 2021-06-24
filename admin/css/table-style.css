@@ -12,7 +12,7 @@ p.credits {
 
 @media only screen and (max-width: 568px) {
   .phone-block {
-    display: block;
+    display: block
   }
 
   .phone-hide {
@@ -72,7 +72,7 @@ table td {
 }
 
 table th {
-    background: #e74c3c;
+    background: #11b4b4;
     color: #fff;
     text-transform: uppercase;
 }
